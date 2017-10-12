@@ -19,3 +19,14 @@ $factory->define(App\User::class, function (Faker\Generator $faker) {
         'remember_token' => str_random(10),
     ];
 });
+$factory->define(App\Course::class, function (Faker\Generator $faker) {
+    $difficulties = ['beginner', 'intermediate', 'advanced'];
+    $types = ['theory', 'project', 'snippet'];
+    return [
+        'name' => $name = $faker->sentence,
+        'slug' => str_slug($name),
+        'free' => rand(0, 1),
+        'difficulty' => $difficulties[rand(0, 2)],
+        'type' => $types[rand(0, 2)],
+    ];
+});
