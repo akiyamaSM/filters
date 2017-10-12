@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="FiltersAbstracts.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Filters/FiltersAbstracts.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36133122" vertical-offset="0" max-vertical-offset="631">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state vertical-scroll-proportion="3.417683" vertical-offset="0" max-vertical-offset="2774">
+              <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -42,9 +42,14 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/database/migrations/2017_10_12_133041_create_courses_table.php" />
         <option value="$PROJECT_DIR$/database/factories/ModelFactory.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/CourseController.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CourseController.php" />
+        <option value="$PROJECT_DIR$/app/Filters/CourseFilters.php" />
+        <option value="$PROJECT_DIR$/app/Course.php" />
+        <option value="$PROJECT_DIR$/app/Filters/Course/AccessFilter.php" />
+        <option value="$PROJECT_DIR$/app/Filters/Course/CourseFilters.php" />
+        <option value="$PROJECT_DIR$/app/Filters/FiltersAbstracts.php" />
       </list>
     </option>
   </component>
@@ -104,6 +109,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -115,6 +174,11 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\Filters\app\Filters\Course" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -152,7 +216,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -229,19 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CourseController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69512194" vertical-offset="228" max-vertical-offset="1064">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <marker date="1507815928655" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1507815928655" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1507815928655" expanded="true" signature="-1:-1" placeholder=" Get all the courses ..." />
-            <marker date="1507815928655" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46341464" vertical-offset="0" max-vertical-offset="684">
@@ -258,6 +309,909 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36133122" vertical-offset="0" max-vertical-offset="631">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7378049" vertical-offset="6166" max-vertical-offset="54682">
+          <caret line="182" column="26" selection-start-line="182" selection-start-column="26" selection-end-line="182" selection-end-column="26" />
+          <folding>
+            <marker date="1507811613627" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" The base query builder instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" The model being queried. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" The relationships that should be eager loaded. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" All of the registered builder macros. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" A replacement for the typical delete function. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" The methods that should be returned from query builder. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Applied global scopes. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Removed global scopes. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Create a new Eloquent query builder instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Register a new global scope. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Remove a registered global scope. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Remove all or passed registered global scopes. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get an array of global scopes that were removed from the query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Find a model by its primary key. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Find multiple models by their primary keys. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Find a model by its primary key or throw an exception. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Find a model by its primary key or return fresh model instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the first record matching the attributes or instantiate it. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the first record matching the attributes or create it. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Create or update a record matching the attributes, and fill it with values. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Execute the query and get the first result. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Execute the query and get the first result or throw an exception. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Execute the query as a &quot;select&quot; statement. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get a single column's value from the first result of a query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get a generator for the given query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Chunk the results of the query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Chunk the results of a query by comparing numeric IDs. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Execute a callback over each item while chunking. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get an array with the values of a given column. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Alias for the &quot;pluck&quot; method. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Paginate the given query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Paginate the given query into a simple paginator. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Update a record in the database. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Increment a column's value by a given amount. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Decrement a column's value by a given amount. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add the &quot;updated at&quot; column to an array of values. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Delete a record from the database. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Run the default delete function on the builder. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Register a replacement for the default delete function. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the hydrated models without eager loading. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Eager load the relationships for the models. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Eagerly load the relationship on a set of models. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the relation instance for the given relation name. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the deeply nested relations for a given top-level relation. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Determine if the relationship is nested. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Apply the callback's query changes if the given &quot;value&quot; is true. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add a basic where clause to the query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where&quot; clause to the query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add a relationship count / exists condition to the query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add nested relationship count / exists conditions to the query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add a relationship count / exists condition to the query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add a relationship count / exists condition to the query with where clauses. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add a relationship count / exists condition to the query with where clauses. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add a relationship count / exists condition to the query with an &quot;or&quot;. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add a relationship count / exists condition to the query with where clauses and an &quot;or&quot;. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add the &quot;has&quot; condition where clause to the query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Check if we can run an &quot;exists&quot; query to optimize performance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add a sub query count clause to the query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Merge the constraints from a relation query to the current query. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the &quot;has relation&quot; base query instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Set the relationships that should be eager loaded. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Prevent the specified relations from being eager loaded. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add subselect queries to count the relations. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Parse a list of relations into individuals. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Parse the nested relationships in a relation. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Add the given scopes to the current builder instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Apply the given scope on the current builder instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Apply the scopes to the Eloquent builder instance and return it. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Determine if the scope added after the given offset should be nested. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Nest where conditions by slicing them at the given where count. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Slice where conditions at the given offset and add them to the query as a nested condition. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Create a where array with nested where conditions. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the underlying query builder instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get a base query builder instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Set the underlying query builder instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the relationships being eagerly loaded. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Set the relationships being eagerly loaded. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the model instance being queried. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Set a model instance for the model being queried. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Extend the builder with a given callback. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Get the given macro by name. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Dynamically handle calls into the query instance. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder=" Force a clone of the underlying query builder when cloning. ..." />
+            <marker date="1507811613627" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.71036583" vertical-offset="33868" max-vertical-offset="91200">
+          <caret line="892" column="20" selection-start-line="892" selection-start-column="20" selection-end-line="892" selection-end-column="20" />
+          <folding>
+            <marker date="1507811613892" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The database connection instance. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The database query grammar instance. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The database query post processor instance. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The current query value bindings. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" An aggregate function and column to be run. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The columns that should be returned. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Indicates if the query returns distinct results. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The table which the query is targeting. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The table joins for the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The where constraints for the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The groupings for the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The having constraints for the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The orderings for the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The maximum number of records to return. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The number of records to skip. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The query union statements. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The maximum number of union records to return. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The number of union records to skip. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The orderings for the union query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Indicates whether row locking is being used. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The field backups currently in use. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" The binding backups currently in use. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" All of the available clause operators. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Whether use write pdo for select. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Create a new query builder instance. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Set the columns to be selected. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a new &quot;raw&quot; select expression to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a subselect expression to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a new select column to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Force the query to only return distinct results. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Set the table which the query is targeting. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a join clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;join where&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a left join to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;join where&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a right join to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;right join where&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;cross join&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Apply the callback's query changes if the given &quot;value&quot; is true. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a basic where clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an array of where clauses to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Determine if the given operator and value combination is legal. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where&quot; clause comparing two columns to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where&quot; clause comparing two columns to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a raw where clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a raw or where clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a where between statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an or where between statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a where not between statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an or where not between statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a nested where statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Create a new query instance for nested where condition. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add another query builder as a nested where to the query builder. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a full sub-select to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an exists clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an or exists clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a where not exists clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a where not exists clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an exists clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where in&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where in&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where not in&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where not in&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a where in with a sub-select to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a external sub-select to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where null&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where null&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where not null&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where not null&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where date&quot; statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where date&quot; statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where time&quot; statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where time&quot; statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where day&quot; statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where month&quot; statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;where year&quot; statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a date based (year, month, day, time) statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Handles dynamic &quot;where&quot; clauses to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a single dynamic where clause statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;group by&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;having&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a &quot;or having&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a raw having clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a raw or having clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;order by&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;order by&quot; clause for a timestamp to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add an &quot;order by&quot; clause for a timestamp to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Put the query's results in random order. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a raw &quot;order by&quot; clause to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Set the &quot;offset&quot; value of the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Alias to set the &quot;offset&quot; value of the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Set the &quot;limit&quot; value of the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Alias to set the &quot;limit&quot; value of the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Set the limit and offset for a given page. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Constrain the query to the next &quot;page&quot; of results after a given ID. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a union statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a union all statement to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Lock the selected rows in the table. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Lock the selected rows in the table for updating. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Share lock the selected rows in the table. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get the SQL representation of the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Execute a query for a single record by ID. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get a single column's value from the first result of a query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Execute the query and get the first result. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Execute the query as a &quot;select&quot; statement. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Run the query as a &quot;select&quot; statement against the connection. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Paginate the given query into a simple paginator. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get a paginator only supporting simple next and previous links. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get the count of the total records for the paginator. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Backup some fields for the pagination count. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Remove the column aliases since they will break count queries. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Restore some fields after the pagination count. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get a generator for the given query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Chunk the results of the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Chunk the results of a query by comparing numeric IDs. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Execute a callback over each item while chunking. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get an array with the values of a given column. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Alias for the &quot;pluck&quot; method. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Strip off the table name or alias from a column identifier. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Concatenate values of a given column as a string. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Determine if any rows exist for the current query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Retrieve the &quot;count&quot; result of the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Retrieve the minimum value of a given column. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Retrieve the maximum value of a given column. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Retrieve the sum of the values of a given column. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Retrieve the average of the values of a given column. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Alias for the &quot;avg&quot; method. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Execute an aggregate function on the database. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Execute a numeric aggregate function on the database. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Insert a new record into the database. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Insert a new record and get the value of the primary key. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Update a record in the database. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Insert or update a record matching the attributes, and fill it with values. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Increment a column's value by a given amount. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Decrement a column's value by a given amount. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Delete a record from the database. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Run a truncate statement on the table. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get a new instance of the query builder. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Merge an array of where clauses and bindings. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Remove all of the expressions from a list of bindings. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Create a raw database expression. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get the current query value bindings in a flattened array. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get the raw array of bindings. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Set the bindings on the query builder. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Add a binding to the query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Merge an array of bindings into our bindings. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get the database connection instance. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get the database query processor instance. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Get the query grammar instance. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Use the write pdo for query. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder=" Handle dynamic method calls into the method. ..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811613892" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CourseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7530488" vertical-offset="152" max-vertical-offset="988">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <marker date="1507816871412" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1507816871412" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507816871412" expanded="true" signature="-1:-1" placeholder=" Get all the courses ..." />
+            <marker date="1507816871412" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Course.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5792683" vertical-offset="0" max-vertical-offset="722">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <marker date="1507817331783" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1507817331783" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507817331783" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Filters/Course/CourseFilters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52134144" vertical-offset="0" max-vertical-offset="684">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <marker date="1507817683061" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507817683061" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Filters/Course/AccessFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34756097" vertical-offset="0" max-vertical-offset="656">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1507817635187" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33231708" vertical-offset="18896" max-vertical-offset="33972">
+          <caret line="507" column="13" selection-start-line="507" selection-start-column="13" selection-end-line="507" selection-end-column="13" />
+          <folding>
+            <marker date="1507811617580" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Assign high numeric IDs to a config item to force appending. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Add an element to an array using &quot;dot&quot; notation if it doesn't exist. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Build a new array using a callback. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Collapse an array of arrays into a single array. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Divide an array into two arrays. One with keys and the other with values. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Flatten a multi-dimensional associative array with dots. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get all of the given array except for a specified array of items. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Return the first element in an array passing a given truth test. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Flatten a multi-dimensional array into a single level. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Remove one or many array items from a given array using &quot;dot&quot; notation. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get an item from an array using &quot;dot&quot; notation. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Check if an item exists in an array using &quot;dot&quot; notation. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Return the last element in an array passing a given truth test. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get a subset of the items from the given array. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Pluck an array of values from an array. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Push an item onto the beginning of an array. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get a value from the array, and remove it. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Set an array item to a given value using &quot;dot&quot; notation. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Sort the array using the given callback. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Recursively sort an array by keys and values. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Filter the array using the given callback. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Convert a value to camel case. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get the class &quot;basename&quot; of the given object / class. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Returns all traits used by a class, its subclasses and trait of their traits. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Create a collection from the given value. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Fill in data where it's missing. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get an item from an array or object using &quot;dot&quot; notation. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Set an item on an array or object using dot notation. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Dump the passed variables and end the script. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Escape HTML entities in a string. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Determine if a given string ends with a given substring. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get the first element of an array. Useful for method chaining. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get the last element from an array. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get an item from an object using &quot;dot&quot; notation. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Replace a given pattern with each value in the array in sequentially. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Convert a string to snake case. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Determine if a given string starts with a given substring. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Determine if a given string contains a given substring. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Cap a string with a single instance of a given value. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Determine if a given string matches a given pattern. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Limit the number of characters in a string. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get the plural form of an English word. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Generate a more truly &quot;random&quot; alpha-numeric string. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Replace a given value in the string sequentially with an array. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Replace the first occurrence of a given value in the string. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Replace the last occurrence of a given value in the string. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Get the singular form of an English word. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Generate a URL friendly &quot;slug&quot; from a given string. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Convert a value to studly caps case. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Convert a value to title case. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Returns all traits used by a trait and its traits. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Return the default value of the given value. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Determine whether the current environment is Windows based. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder=" Return the given object. Useful for chaining. ..." />
+            <marker date="1507811617580" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Filters/FiltersAbstracts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.417683" vertical-offset="0" max-vertical-offset="2774">
+          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
           <folding />
         </state>
       </provider>
