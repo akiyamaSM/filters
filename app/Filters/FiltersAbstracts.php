@@ -29,8 +29,8 @@ abstract class FiltersAbstracts {
      */
     public function filter(Builder $builder)
     {
-        foreach($this->getFilters() as $filter => $class){
-            var_dump($this->resolve($filter));
+        foreach($this->getFilters() as $filter => $value){
+            $this->resolve($filter)->filter($builder, $value);
         }
         return $builder;
     }
@@ -58,12 +58,12 @@ abstract class FiltersAbstracts {
 
     /**
      * Get only the filters that exists in the request and the array
-     * 
+     *
      * @param $filters
      * @return array
      */
     protected function filterFilters($filters)
     {
-        return $this->request->intersect(array_keys($filters));
+        return array_filter($this->request->intersect(array_keys($filters)));
     }
 }

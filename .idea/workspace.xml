@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FiltersAbstracts.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Filters/FiltersAbstracts.php">
+      <file leaf-file-name="AccessFilter.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Filters/Course/AccessFilter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.417683" vertical-offset="0" max-vertical-offset="2774">
-              <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.5381098" vertical-offset="407" max-vertical-offset="1444">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -47,9 +47,12 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/CourseController.php" />
         <option value="$PROJECT_DIR$/app/Filters/CourseFilters.php" />
         <option value="$PROJECT_DIR$/app/Course.php" />
-        <option value="$PROJECT_DIR$/app/Filters/Course/AccessFilter.php" />
-        <option value="$PROJECT_DIR$/app/Filters/Course/CourseFilters.php" />
         <option value="$PROJECT_DIR$/app/Filters/FiltersAbstracts.php" />
+        <option value="$PROJECT_DIR$/app/Filters/Course/DifficultyFilter.php" />
+        <option value="$PROJECT_DIR$/app/Filters/Course/CourseFilters.php" />
+        <option value="$PROJECT_DIR$/app/Filters/canFilter.php" />
+        <option value="$PROJECT_DIR$/app/Filters/Mappable.php" />
+        <option value="$PROJECT_DIR$/app/Filters/Course/AccessFilter.php" />
       </list>
     </option>
   </component>
@@ -141,28 +144,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Filters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Filters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Filters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -176,6 +157,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\Filters\app\Filters\Course" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp\www\Filters\app\Filters\Course" />
     </key>
@@ -257,23 +241,6 @@
         <state vertical-scroll-proportion="0.4054878" vertical-offset="0" max-vertical-offset="1216">
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2017_10_12_133041_create_courses_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6371951" vertical-offset="304" max-vertical-offset="1520">
-          <caret line="20" column="65" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="65" />
-          <folding>
-            <marker date="1507815409232" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder=" Run the migrations. ..." />
-            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder=" Reverse the migrations. ..." />
-            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -976,27 +943,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Filters/Course/CourseFilters.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52134144" vertical-offset="0" max-vertical-offset="684">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <marker date="1507817683061" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1507817683061" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Filters/Course/AccessFilter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34756097" vertical-offset="0" max-vertical-offset="656">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <marker date="1507817635187" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/helpers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33231708" vertical-offset="18896" max-vertical-offset="33972">
@@ -1210,8 +1156,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Filters/FiltersAbstracts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.417683" vertical-offset="0" max-vertical-offset="2774">
-          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.5365854" vertical-offset="2118" max-vertical-offset="2774">
+          <caret line="66" column="51" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
+          <folding>
+            <marker date="1507820565375" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder=" Create a new Filter ..." />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder=" Filter the DB ..." />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder=" Create the object that will handle the filter ..." />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder=" Get the filtered list ..." />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder=" Get only the filters that exists in the request and the array ..." />
+            <marker date="1507820565375" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2017_10_12_133041_create_courses_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59097975" vertical-offset="304" max-vertical-offset="1520">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <marker date="1507815409232" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder=" Run the migrations. ..." />
+            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder=" Reverse the migrations. ..." />
+            <marker date="1507815409232" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Filters/Course/DifficultyFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34756097" vertical-offset="0" max-vertical-offset="684">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <marker date="1507820881672" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1507820881672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507820881672" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Filters/Course/CourseFilters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4054878" vertical-offset="0" max-vertical-offset="722">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <marker date="1507821038720" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507821038720" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Filters/canFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46341464" vertical-offset="0" max-vertical-offset="656">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+          <folding>
+            <marker date="1507820759689" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Filters/Mappable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5365854" vertical-offset="674" max-vertical-offset="1330">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <marker date="1507821335302" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507821335302" expanded="true" signature="-1:-1" placeholder=" list of mappings ..." />
+            <marker date="1507821335302" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1507821335302" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1507821335302" expanded="true" signature="-1:-1" placeholder=" Get the corresponding value ..." />
+            <marker date="1507821335302" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Filters/Course/AccessFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5381098" vertical-offset="407" max-vertical-offset="1444">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>

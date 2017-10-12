@@ -8,6 +8,7 @@ class CourseFilters extends FiltersAbstracts{
 
     protected $filters = [
         'access' => AccessFilter::class,
+        'difficulty' => DifficultyFilter::class,
     ];
 
 }
