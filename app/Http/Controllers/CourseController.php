@@ -18,6 +18,6 @@ class CourseController extends Controller
      */
     public function index(Request $request)
     {
-        return Course::filter($request)->get();
+        return Course::with('subjects')->filter($request)->get();
     }
 }
